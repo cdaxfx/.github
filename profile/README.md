@@ -6,7 +6,7 @@ Welcome to the CDAX GitHub repository! CDAX is a specialist online money transmi
 
 ### Platform Monorepo
 
-The [CDAX Platform Monorepo](https://github.com/cdaxfx/cdax-platform) is the central repository for all platform-related components. It includes:
+The [CDAX Platform Monorepo](https://github.com/cdaxfx/platform) is the central repository for all platform-related components. It includes:
 
 - Core services
 - UI components
@@ -17,7 +17,7 @@ This monorepo is designed to streamline development and maintain consistency acr
 
 ### API Repository
 
-The [CDAX API Repository](https://github.com/cdaxfx/cdax-api) houses the APIs used by our platform. It provides:
+The [CDAX API Repository](https://github.com/cdaxfx/api) houses the APIs used by our platform. It provides:
 
 - API documentation
 - Endpoint definitions
@@ -34,7 +34,7 @@ To contribute or get involved with the CDAX platform, follow these steps:
 
    ```bash
    git clone https://github.com/cdaxfx/platform.git
-   git clone https://github.com/cdaxfx/cdax-api.git
+   git clone https://github.com/cdaxfx/api.git
    ```
 
 2. **Set Up Your Development Environment:**
@@ -43,8 +43,8 @@ To contribute or get involved with the CDAX platform, follow these steps:
 
 3. **Contribute:**
 
-   - For platform-related contributions, check out the [CDAX Platform Monorepo](https://github.com/cdaxfx/cdax-platform) issues and pull requests.
-   - For API-related contributions, refer to the [CDAX API Repository](https://github.com/cdaxfx/cdax-api).
+   - For platform-related contributions, check out the [CDAX Platform Monorepo](https://github.com/cdaxfx/platform) issues and pull requests.
+   - For API-related contributions, refer to the [CDAX API Repository](https://github.com/cdaxfx/api).
 
 4. **Provide Feedback:**
 

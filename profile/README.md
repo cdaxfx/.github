@@ -12,19 +12,12 @@ The [CDAX Platform Monorepo](https://github.com/cdaxfx/platform) is the central 
 - UI components
 - Integration modules
 - Deployment configurations
-
-This monorepo is designed to streamline development and maintain consistency across the platform.
-
-### API Repository
-
-The [CDAX API Repository](https://github.com/cdaxfx/api) houses the APIs used by our platform. It provides:
-
-- API documentation
 - Endpoint definitions
 - Authentication methods
 - Usage examples
 
-This repository is crucial for developers integrating with our services or building new features.
+
+This monorepo is designed to streamline development and maintain consistency across the platform. 
 
 ## Getting Started
 
@@ -34,7 +27,6 @@ To contribute or get involved with the CDAX platform, follow these steps:
 
    ```bash
    git clone https://github.com/cdaxfx/platform.git
-   git clone https://github.com/cdaxfx/api.git
    ```
 
 2. **Set Up Your Development Environment:**
@@ -44,7 +36,6 @@ To contribute or get involved with the CDAX platform, follow these steps:
 3. **Contribute:**
 
    - For platform-related contributions, check out the [CDAX Platform Monorepo](https://github.com/cdaxfx/platform) issues and pull requests.
-   - For API-related contributions, refer to the [CDAX API Repository](https://github.com/cdaxfx/api).
 
 4. **Provide Feedback:**
 
